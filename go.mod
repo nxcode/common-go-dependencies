@@ -1,4 +1,4 @@
-module common-go-dependencies
+module github.com/nxcode/common-go-dependencies
 
 go 1.25.0
 
